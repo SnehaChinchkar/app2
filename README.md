@@ -18,9 +18,18 @@ start a mock REST API server
 
 json-server --watch db.json --port 3001
 
-run the app
+### Installation 
+npm i 
+
+npm install tailwindcss @tailwindcss/vite
+
+npm install -g json-server
+
+### run the app
 
 npm run dev
+
+
 
 ## About the App
 ### Tech Stack:
